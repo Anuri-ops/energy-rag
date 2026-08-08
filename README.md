@@ -1,5 +1,8 @@
 # ⚡ Energy Operations Assistant (RAG)
 
+**🔗 Live demo:** https://anuri-energy-rag.streamlit.app/
+
+
 A Retrieval-Augmented Generation (RAG) assistant that answers plain-language questions about energy asset operations. Answers are grounded in a document knowledge base and cite their source, so responses are traceable rather than invented.
 
 Built on synthetic data covering both wind and solar assets, demonstrating a pattern applicable across renewable energy and broader energy operations.
