@@ -5,6 +5,7 @@
 
 ## Demo
    ![The assistant routing a combined question to both documents and data](demorag.png)
+   
 
 A Retrieval-Augmented Generation (RAG) assistant that answers plain-language questions about energy asset operations. Answers are grounded in a document knowledge base and cite their source, so responses are traceable rather than invented.
 
